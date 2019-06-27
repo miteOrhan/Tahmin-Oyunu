@@ -1,0 +1,27 @@
+Oyuncu ve program bu oyunda birbirlerinden gizli olarak tuttuklarý, rakamlarý birbirinden farklý 4 basamaklý sayýyý tahmin etmeye çalýþýrlar.
+Sayý tahmin oyunu, ilk olarak kullanýcýya tahmin hakký verir. Bunun sebebi ise genelde programýn tutulan sayýyý daha hýzlý tahmin etmesidir.
+Ýlk turda oyuncu kutucuða tahmin ettiði 4 basamaklý sayýyý yazýp, tahmin et butonuna basar. Tahminin gerçekleþmesinden sonra edilen tahminin sonucu ekranda raporlanýr.
+Eðer oyuncu 4 basamaktan birini doðru tahmin etmiþ ve basamaðýn yerini de doðru tahmin etmiþse bu durum, rapordaki "Artý" hanesine 1 puan eklenilmesine sebep olacaktýr.
+Eðer oyuncu 4 basamaktan birini doðru tahmin etmiþ fakat basamaðýn yerini yanlýþ tahmin etmiþse bu durum, rapordaki "Eksi" hanesine 1 puan eklenilmesine sebep olacaktýr.
+Örneðin program 5483 sayýsýný tuttuunda ve oyuncu 3468 tahminini yaptýðýnda 4 sayýsýnýn basamak deðeri doðru olduðu için +1, 3 ve 8 sayýsýnýn basamak deðeri yanlýþ olduðu için -2 deðeri dönülecektir.
+Oyuncu tahminini yapýp sonucunu gördükten sonra "Sýrayý Bitir" butonuna basar ve bilgisayarýn turu baþlar.
+Bilgisayardan tahmin almak için "Bottan Yeni Tahmin Al" butonuna basýlýr ve bilgisayar oyuncunun konsoldan görebileceði tahminini yapar. 
+Oyuncu konsola bilgisayarýn yaptýðý tahmin sonucu istenen "Artý" ve "Eksi" deðerlerini girer ve kendi tahmin hakkýna geçmek için "Sýrayý Bitir" butonuna basar.
+Böylece ilk turlar tamamlanmýþ olur. Bilgisayar ve oyuncu, tutulan sayýlardan biri bilinene kadar ayný þekilde devam ederler. Doðru sayý tahmin edildiðinde ekranda buna dair bir mesaj oluþur ve oyun biter.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FARKEDÝLEN VE GELÝÞTÝRÝLMESÝ GEREKEN KONULAR:
+
+Sýfýr rakamýnýn ilk basamaða gelmesi durumu,
+Tahmin yapýlmadan da sýranýn geçilebilmesi durumu,
+Görsel zenginlikler,
+Bottan tahminin konsoldan alýnmasý geliþtirilebilir...
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Bu yazýlým, Java proglamlama dili kullanýlarak geliþtirilmektedir.
