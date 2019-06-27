@@ -20,6 +20,7 @@ Sıfır rakamının ilk basamağa gelmesi durumu,
 Tahmin yapılmadan da sıranın geçilebilmesi durumu,
 Görsel zenginlikler,
 Bottan tahminin konsoldan alınması geliştirilebilir...
+Bu konulara dair hata durumları ele alınacaktır.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
